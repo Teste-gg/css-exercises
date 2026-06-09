@@ -24,3 +24,19 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+
+.title{
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.items{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.text{
+  max-width: 200px;
+}
